@@ -1,5 +1,16 @@
 name: Step 2, Configure your site
 
+theme: minima
+
+title: Phoneix Hub
+author: LelaMae Harris
+description: To empower survivors of trauma through education, advocacy, and community support, helping them reclaim inner peace, achieve justice, and rebuild fulfilling lives.
+Phase 1: Branding & Foundation (Month 1) Goal: Solidify identity, legal setup, and launch digital presence. 
+Key Actions: Finalize Branding: Name: Reclaim Hope (combines healing and justice themes).
+Tagline: “Empowering Survivors. Restoring Peace. Building Justice.”
+Visual Identity: Colors: Soft blues (calm), gold (hope), and charcoal (strength).
+Logo: Phoenix rising from flames + hands cradling a heart.
+Mission Statement: “To empower survivors of trauma through education, advocacy, and community support, helping them reclaim inner peace, achieve justice, and rebuild fulfilling lives.
 # This step triggers after the learner update their Pages config file.
 # This workflow updates from step 2 to step 3.
 
